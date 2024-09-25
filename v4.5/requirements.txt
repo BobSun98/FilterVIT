@@ -1,0 +1,5 @@
+matplotlib
+Pillow==10.3.0
+timm==0.9.16
+torchsummary==1.5.1
+tqdm==4.66.2
